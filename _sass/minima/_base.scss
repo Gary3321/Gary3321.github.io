@@ -1,3 +1,4 @@
+
 html {
   font-size: $base-font-size;
 }
@@ -293,4 +294,10 @@ table {
     -webkit-overflow-scrolling: touch;
             -ms-overflow-style: -ms-autohiding-scrollbar;
   }
+}
+
+.narrow-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
