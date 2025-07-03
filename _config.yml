@@ -1,3 +1,12 @@
-title: My Jekyll Site
-description: A simple website built with Jekyll on GitHub Pages
 theme: minima
+title: Gary's Site
+description: Recording my work, studies, and career journey
+author: Gary
+
+header_pages:
+  - index.md
+  - projects.md
+  - ai-notes.md
+  - blog.md
+  - resume.md
+  - about.md
